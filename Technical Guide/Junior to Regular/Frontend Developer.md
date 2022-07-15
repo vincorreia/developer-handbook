@@ -8,29 +8,29 @@ Company practices
 
 ### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
-*   [ ] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
+*   [x] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
 *   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
 *   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
 *   [ ] You know how to create and reference issues
-*   [ ] You know how to verify when a build check failed
+*   [x] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
 
 #### [Slack](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#slack)
 
-*   [ ] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
-*   [ ] You know how to create groups and channels
+*   [x] You use Slack statuses in line with company policy (remote working, vacationing, in a meeting, etc)
+*   [x] You know how to create groups and channels
 
 #### [Small Improvements](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#small-improvements)
 
-*   [ ] You know how to give praise and add talk topics to a 1:1 meeting
+*   [x] You know how to give praise and add talk topics to a 1:1 meeting
 
 #### [Email](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#email)
 
-*   [ ] You can configure local email client
+*   [x] You can configure local email client
 
 React
 -----
@@ -39,17 +39,17 @@ React is an open-source JavaScript library for building user interfaces. It is m
 
   
 
-*   [ ] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+*   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
 *   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
-*   [ ] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
+*   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
-*   [ ] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
-*   [ ] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
+*   [x] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
+*   [x] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 
 ### [Hooks](/Technical%20Stack/Mobile%20Developer/React.md#hooks)
 
-*   [ ] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
-*   [ ] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
+*   [x] You can use <code>useState</code> and <code>useEffect</code> hooks. [:books:](https://www.valentinog.com/blog/hooks/)
+*   [x] You know how hook dependency array works. [:books:](https://medium.com/better-programming/understanding-the-useeffect-dependency-array-2913da504c44)
 
 Application state management
 ----------------------------
@@ -125,11 +125,11 @@ Styling
 
 ### [CSS](/Technical%20Stack/Frontend%20Developer/Styling.md#css)
 
-*   [ ] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
-*   [ ] You know how to apply basic styles to elements (colour, size, position, etc)
-*   [ ] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
-*   [ ] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
-*   [ ] You know how to use media queries
+*   [x] You know how to write CSS rules [:books:](https://css-tricks.com/snippets/css/)
+*   [x] You know how to apply basic styles to elements (colour, size, position, etc)
+*   [x] You know how to display and properly scale images [:books:](https://css-tricks.com/aspect-ratio-boxes/)
+*   [x] You know how to center an element horizontally and vertically [:books:](https://css-tricks.com/centering-css-complete-guide/)
+*   [x] You know how to use media queries
 
 #### [CSS in JS](/Technical%20Stack/Frontend%20Developer/Styling.md#css-in-js)
 
@@ -142,10 +142,10 @@ Styling
 
 You can learn how to style HTML elements with flexbox by reading this awesome guide [https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-*   [ ] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
-*   [ ] You know how to align children elements [:books:](https://flexboxfroggy.com/)
-*   [ ] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
-*   [ ] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
+*   [x] You know how to use column and row layouts [:books:](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Mastering_Wrapping_of_Flex_Items#:~:text=Flexbox%20was%20designed%20as%20a,if%20flex%2Ddirection%20is%20column%20.)
+*   [x] You know how to align children elements [:books:](https://flexboxfroggy.com/)
+*   [x] You know how to stretch child element to the size of its parent [:books:](https://medium.com/@gaurav5430/css-flex-positioning-gotchas-child-expands-to-more-than-the-width-allowed-by-the-parent-799c37428dd6)
+*   [x] You can properly use flex-basis and flex-wrap [:books:](https://css-tricks.com/almanac/properties/f/flex-wrap/)
 
 #### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
@@ -154,8 +154,8 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
-*   [ ] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
-*   [ ] You know how to create and use scss variables
+*   [x] You understand the SCSS syntax and file extensions [:books:](https://www.youtube.com/watch?v=_a5j7KoflTs)
+*   [x] You know how to create and use scss variables
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
@@ -164,8 +164,8 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 Date & Time
 -----------
 
-*   [ ] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
-*   [ ] You know how to compare native date objects
+*   [x] You know how to create a Date object for a specific date [:books:](https://www.digitalocean.com/community/tutorials/understanding-date-and-time-in-javascript)
+*   [x] You know how to compare native date objects
 
 ### \[Optional\] [react-datetime](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#react-datetime)
 
@@ -184,22 +184,22 @@ Routing
 
 ### [react-router](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router)
 
-*   [ ] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
-*   [ ] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
-*   [ ] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
-*   [ ] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
-*   [ ] You know how to use <Redirect> in order to render a needed component in a given occasion
+*   [x] You can create a simple route structure using Switch and Route [:books:](https://reacttraining.com/blog/react-router-v5-1/)
+*   [x] You know how to add parameters to a route, and make them required or optional [:books:](https://scotch.io/courses/using-react-router-4/route-params)
+*   [x] You know how to match exactly the route needed [:books:](https://stackoverflow.com/questions/49162311/react-difference-between-route-exact-path-and-route-path)
+*   [x] You know how to render 404 pages [:books:](https://ui.dev/react-router-v4-handling-404-pages/)
+*   [x] You know how to use <Redirect> in order to render a needed component in a given occasion
 
 ### [react-router-dom](/Technical%20Stack/Frontend%20Developer/Routing.md#react-router-dom)
 
-*   [ ] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
+*   [x] You know how to use basic components - Link, NavLink [:books:](https://www.codementor.io/@packt/using-the-link-and-navlink-components-to-navigate-to-a-route-rieqipp42)
 
 Animations
 ----------
 
 ### [CSS Animations](/Technical%20Stack/Frontend%20Developer/Animations.md#css-animations)
 
-*   [ ] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
+*   [x] You know how write CSS animations - transitions, keyframes [:books:](https://www.youtube.com/watch?v=zHUpx90NerM)
 
 Internationalization
 --------------------
@@ -231,14 +231,14 @@ Development Tools
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
-*   [ ] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/npm)
+*   [x] You understand the benefits of <code>package-lock.json</code> file [:books:](https://stackoverflow.com/questions/44297803/what-is-the-role-of-the-package-lock-json)
 
 ### [Generators](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#generators)
 
 #### [create-react-app](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#create-react-app)
 
-*   [ ] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
+*   [x] You can generate a new app using create-react-app cli [:books:](https://create-react-app.dev/docs/getting-started/#creating-an-app)
 
 ### [React](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#react)
 
@@ -255,17 +255,17 @@ HTTP
 
 ### [Requests](/Technical%20Stack/Mobile%20Developer/HTTP.md#requests)
 
-*   [ ] You know what cookies are
-*   [ ] You know what HTTP headers are
+*   [x] You know what cookies are
+*   [x] You know what HTTP headers are
 
 #### [fetch](/Technical%20Stack/Mobile%20Developer/HTTP.md#fetch)
 
-*   [ ] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-*   [ ] You know how to set HTTP headers in a request
+*   [x] You know how to create an HTTP request using native <code>fetch</code> [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+*   [x] You know how to set HTTP headers in a request
 
 #### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
-*   [ ] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
+*   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
 *   [ ] You know how to set HTTP headers in a request
 
 Testing
@@ -282,8 +282,8 @@ Tools
 
 #### [Figma](/Technical%20Stack/Mobile%20Developer/Tools.md#figma)
 
-*   [ ] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
-*   [ ] You know how to extract image assets from a design project
+*   [x] You know how to extract style values (geometry, colours, fonts, etc.) from a design project [:books:](https://www.figma.com/resources/assets/developer-onboarding-guide/)
+*   [x] You know how to extract image assets from a design project
 
 #### [Zeplin](/Technical%20Stack/Mobile%20Developer/Tools.md#zeplin)
 
@@ -302,7 +302,7 @@ Tools
 Browsers
 --------
 
-*   [ ] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+*   [x] You know what DOM is [:books:](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
 * * *
 
