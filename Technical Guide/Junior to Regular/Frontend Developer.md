@@ -105,7 +105,7 @@ Application state management
 
 ### [Side effects](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#side-effects)
 
-*   [ ] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
+*   [x] You understand the concept of side effects [:books:](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0#:~:text=A%20side%20effect%20is%20any,the%20parent%20function%20scope%20chain)
 
 #### [redux-saga](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-saga)
 
@@ -115,10 +115,10 @@ Application state management
 Apptension React Boilerplate
 ----------------------------
 
-*   [ ] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
-*   [ ] You know how to run a linter
+*   [x] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
+*   [x] You know how to run a linter
 *   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
-*   [ ] You know how to create a new route and its component
+*   [x] You know how to create a new route and its component
 
 Styling
 -------
@@ -266,7 +266,7 @@ HTTP
 #### [Axios](/Technical%20Stack/Mobile%20Developer/HTTP.md#axios)
 
 *   [x] You know how to use axios to send HTTP request to an API endpoint [:books:](https://github.com/apptension/cra-template-apptension/blob/master/template/src/modules/users/users.sagas.ts)
-*   [ ] You know how to set HTTP headers in a request
+*   [x] You know how to set HTTP headers in a request
 
 Testing
 -------
