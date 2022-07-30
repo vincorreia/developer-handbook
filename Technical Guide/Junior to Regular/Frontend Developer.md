@@ -60,8 +60,8 @@ Application state management
 
 #### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
-*   [ ] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
-*   [ ] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
+*   [x] You know how to apply selector functions to <code>useSelector</code> hook. [:books:](https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd)
+*   [x] You know how to dispatch actions from React component. [:books:](https://redux.js.org/basics/example)
 
 #### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
@@ -69,12 +69,12 @@ Application state management
 
 ##### [redux-toolkit](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolkit)
 
-*   [ ] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
+*   [x] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 *   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
 
 ### [Immutable data structures](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable-data-structures)
 
-*   [ ] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
+*   [x] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
 *   [ ] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
 
 #### [immer](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immer)
