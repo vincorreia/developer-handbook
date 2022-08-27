@@ -9,8 +9,8 @@ Company practices
 ### [Git](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git)
 
 *   [x] You create pull requests with proper name and description [:books:](https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067)
-*   [ ] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
-*   [ ] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
+*   [x] You squash merge your pull requests [:books:](https://blog.pairworking.com/why-you-should-care-about-squash-and-merge-in-git-675856bf66b0)
+*   [x] You name your commits properly [:books:](https://chris.beams.io/posts/git-commit/)
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
@@ -65,23 +65,23 @@ Application state management
 
 #### [Redux toolset](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolset)
 
-*   [ ] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
+*   [x] You can use one of the listed toolset libraries to create reducers, action types, and action creators more efficiently
 
 ##### [redux-toolkit](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux-toolkit)
 
 *   [x] You know how to create a reducer. [:books:](https://redux-toolkit.js.org/tutorials/basic-tutorial)
-*   [ ] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
+*   [x] You know how to create an action creator [:books:](https://www.johnraptis.dev/redux-toolkit/)
 
 ### [Immutable data structures](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable-data-structures)
 
 *   [x] You understand benefits of using immutable data structures in Redux applications [:books:](https://medium.com/javascript-in-plain-english/why-react-and-redux-need-immutable-data-dae3ab3611a0)
-*   [ ] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
+*   [x] You know how to use at least one of the libraries that provide immutable data structures in redux state [:books:](https://css-tricks.com/using-immer-for-react-state-management/)
 
 #### [immer](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immer)
 
-*   [ ] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
-*   [ ] You know how to convert immutable structure to regular JavaScript object
-*   [ ] You know the difference between only changing state object and returning a changed state object
+*   [x] You know how to create a reducer that uses immer [:books:](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
+*   [x] You know how to convert immutable structure to regular JavaScript object
+*   [x] You know the difference between only changing state object and returning a changed state object
 
 #### \[Optional\] [Immutable.js](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#immutable.js)
 
@@ -117,7 +117,7 @@ Apptension React Boilerplate
 
 *   [x] You know how to initialize a project using Apptension React template of <code>create-react-app</code> generator
 *   [x] You know how to run a linter
-*   [ ] You know how to define a new Redux module (Reducer, Saga, Selector)
+*   [x] You know how to define a new Redux module (Reducer, Saga, Selector)
 *   [x] You know how to create a new route and its component
 
 Styling
@@ -273,7 +273,7 @@ Testing
 
 ### [jest](/Technical%20Stack/Mobile%20Developer/Testing.md#jest)
 
-*   [ ] You know how to test components and functions
+*   [x] You know how to test components and functions
 
 Tools
 -----
