@@ -40,7 +40,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
   
 
 *   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
-*   [ ] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
+*   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
 *   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [x] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
@@ -56,7 +56,7 @@ Application state management
 
 ### [Redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#redux)
 
-*   [ ] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
+*   [x] You can describe full Redux flow [:books:](https://www.youtube.com/watch?v=1w-oQ-i1XB8)
 
 #### [react-redux](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#react-redux)
 
@@ -101,7 +101,7 @@ Application state management
 
 #### [reselect](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#reselect)
 
-*   [ ] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
+*   [x] You know how to create a selector with <code>createSelector</code> function [:books:](https://medium.com/@pearlmcphee/selectors-react-redux-reselect-9ab984688dd4)
 
 ### [Side effects](/Technical%20Stack/Mobile%20Developer/Application%20state%20management.md#side-effects)
 
@@ -149,8 +149,8 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 #### [CSS Grid](/Technical%20Stack/Frontend%20Developer/Styling.md#css-grid)
 
-*   [ ] You know how to divide a web page to rows and columns
-*   [ ] You can position elements in a grid
+*   [x] You know how to divide a web page to rows and columns
+*   [x] You can position elements in a grid
 
 ### \[Optional\] [Sass](/Technical%20Stack/Frontend%20Developer/Styling.md#sass)
 
@@ -159,7 +159,7 @@ You can learn how to style HTML elements with flexbox by reading this awesome gu
 
 ### [UI Kits](/Technical%20Stack/Frontend%20Developer/Styling.md#ui-kits)
 
-*   [ ] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
+*   [x] You understand basics of at least one of the UI Kit libraries [:books:](https://material-ui.com/getting-started/installation/)
 
 Date & Time
 -----------
@@ -226,8 +226,8 @@ Development Tools
 
 #### [Yarn](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#yarn)
 
-*   [ ] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
-*   [ ] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
+*   [x] You're able to use inline commands to add, install & remove packages [:books:](https://devhints.io/yarn)
+*   [x] You understand the benefits of <code>yarn.lock</code> file [:books:](https://www.robertcooper.me/how-yarn-lock-files-work-and-upgrading-dependencies)
 
 #### [NPM](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#npm)
 
