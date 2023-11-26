@@ -14,7 +14,7 @@ Company practices
 
 #### [GitHub](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#git-hub)
 
-*   [ ] You know how to create and reference issues
+*   [x] You know how to create and reference issues
 *   [x] You know how to verify when a build check failed
 
 ### [Communication](/Technical%20Stack/Mobile%20Developer/Company%20best%20practices.md#communication)
@@ -42,7 +42,7 @@ React is an open-source JavaScript library for building user interfaces. It is m
 *   [x] You know how to write a function component. [:books:](https://www.robinwieruch.de/react-function-component#react-function-component-example)
 *   [x] You know the difference between function and class components. [:books:](https://medium.com/@Zwenza/functional-vs-class-components-in-react-231e3fbd7108#:~:text=The%20most%20obvious%20one%20difference,which%20returns%20a%20React%20element.)
 *   [x] You know how to define and modify local component's state. [:books:](https://reactjs.org/docs/faq-state.html)
-*   [ ] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
+*   [x] You know what Virtual DOM is and how React uses it to render components. [:books:](https://www.youtube.com/watch?v=RquK3TImY9U)
 *   [x] You know how to use element events and how to incorporate them in React lifecycle [:books:](https://stackoverflow.com/questions/29303456/reactjs-onclick-change-element/29304703#29304703)
 *   [x] You know component's lifecycle and know how to use each of the phases. [:books:](https://www.youtube.com/watch?v=m_mtV4YaI8c)
 
@@ -135,8 +135,8 @@ Styling
 
 ##### [styled-components](/Technical%20Stack/Frontend%20Developer/Styling.md#styled-components)
 
-*   [ ] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
-*   [ ] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
+*   [x] You can create a styled component for a primitive element [:books:](https://styled-components.com/docs/basics#getting-started)
+*   [x] You can extend styles of an existing component [:books:](https://styled-components.com/docs/basics#extending-styles)
 
 #### [Flexbox](/Technical%20Stack/Frontend%20Developer/Styling.md#flexbox)
 
@@ -169,7 +169,7 @@ Date & Time
 
 ### \[Optional\] [react-datetime](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#react-datetime)
 
-*   [ ] You know how to format and display a date object using standard format strings
+*   [x] You know how to format and display a date object using standard format strings
 
 ### \[Optional\] [moment.js](/Technical%20Stack/Mobile%20Developer/Date%20&%20Time.md#moment.js)
 
@@ -206,12 +206,12 @@ Internationalization
 
 ### [react-Intl](/Technical%20Stack/Mobile%20Developer/Internationalization.md#react-intl)
 
-*   [ ] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
+*   [x] You know and use React-intl components [:books:](https://www.newline.co/@dmitryrogozhny/quick-introduction-to-internationalization-in-react-with-react-intl--13b17de9)
 
 Audio and Video
 ---------------
 
-*   [ ] You know how to use standard HTML Audio and Video tags
+*   [x] You know how to use standard HTML Audio and Video tags
 
 Development Tools
 -----------------
@@ -220,7 +220,7 @@ Development Tools
 
 #### [Webpack](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#webpack)
 
-*   [ ] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
+*   [x] You understand what webpack is used for and what problem it solves [:books:](https://hackernoon.com/webpack-3-quickstarter-configure-webpack-from-scratch-30a6c394038a)
 
 ### [Package managers](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#package-managers)
 
@@ -244,7 +244,7 @@ Development Tools
 
 #### [prop-types](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#prop-types)
 
-*   [ ] You know how to describe component's prop types
+*   [x] You know how to describe component's prop types
 
 #### [redux-devtools](/Technical%20Stack/Frontend%20Developer/Development%20Tools.md#redux-devtools)
 
